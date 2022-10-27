@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Data Driven testing using Scenario Outline
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.383 s - in Data Driven testing using Scenario Outline
